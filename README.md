@@ -18,4 +18,4 @@ Requisitos: Windows 10 u 11 de 64 bits.
 
 ## Aviso
 
-Este repositorio solo contiene instaladores; el código del juego no es público. El juego y sus recursos están protegidos por la licencia que aparece al instalar.
+Este repositorio solo contiene instaladores; el código del juego no es público.
